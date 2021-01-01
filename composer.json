@@ -1,0 +1,25 @@
+{
+    "name": "mengsen/dingdanxia",
+    "homepage": "http://www.web3.xin/",
+    "description": "订单侠、淘宝联盟、淘宝API",
+    "authors": [
+        {
+            "name": "mengsen",
+            "email": "626512443@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": [
+        "MIT"
+    ],
+    "autoload": {
+        "psr-4": {
+            "mengsen\\dingdanxia\\": [
+                "src/"
+            ]
+        }
+    }
+}
